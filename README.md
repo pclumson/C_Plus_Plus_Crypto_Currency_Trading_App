@@ -1,4 +1,8 @@
-# C++_Crypto_Currency_Trading_App
+# C++ Text Based Crypto Currency Trading App
+<img width="745" height="633" alt="Screenshot From 2026-03-05 19-48-00" src="https://github.com/user-attachments/assets/85af0fb9-0d69-4ba4-b4c3-fa12bd6364f1" />
+
+
+
  A simple Text based Crypto Currency Application Design with C++ Object Orientated Programming.
 
  # Choosing the Correct C++ STL Container for the App
